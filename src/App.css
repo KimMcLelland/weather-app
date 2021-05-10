@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  background-color: skyblue;
+}
+
+#main {
+  text-align: center
+}
+
+h2 {
+  font-size: 50px;
+  color: yellow
+}
+
+form input {
+  background-color: white;
+}
+
+.credit {
+  font-size: 5px;
+}
